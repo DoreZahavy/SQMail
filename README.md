@@ -1,5 +1,5 @@
 # SQmail
-<p style="margin-block-end: 3em;">A seamless and efficient email management experience.<br/>Check it out <a href="sqmail.vercel.app">right here</a></p>
+<p style="margin-block-end: 3em;">A seamless and efficient email management experience.<br/>Check it out <a href="https://sqmail.vercel.app">right here</a></p>
 <div>
   
 ![sqmail poster](public/poster1.png)
